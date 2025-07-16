@@ -27,7 +27,7 @@ The dashboard was built using the following tools and technologies:
 
 ## 📂 Data Source
 
-**Source:** Internal transactional dataset saved in [`Coffee Shop Sales.xlsx`](./Coffee%20Shop%20Sales.xlsx)  
+**Source:** [Maven Analytics Data Playground](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=coffee) – *Coffee Shop Sales Dataset* 
 
 The dataset includes:  
 - 🆔 **transaction_id** – Unique ID for each transaction  
