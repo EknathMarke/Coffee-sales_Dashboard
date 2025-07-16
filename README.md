@@ -107,7 +107,7 @@ Includes mini trend-lines 📈 showing changes over time.
 
 Here is a preview of the dashboard:  
 
-![Dashboard Screenshot](https://your-placeholder-url-to-dashboard-screenshot.png)
+![Dashboard Screenshot](https://github.com/EknathMarke/Coffee-sales_Dashboard/blob/main/Coffee-sales_Dashboard.png)
 
 ---
 
